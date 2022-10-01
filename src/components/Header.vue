@@ -3,6 +3,8 @@
         <div class="row">
           <div class="col-12 col-md-3">
             <h1>Formularios</h1>
+            
+            <h2>Universidad Tecnológica de Tehuacán</h2>
           </div>
 
           <div class="row">
